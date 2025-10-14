@@ -1,7 +1,7 @@
 <img width="4011" height="2454" alt="image" src="https://github.com/user-attachments/assets/72057cd4-9ea5-4de1-bfce-004814f3db03" />
 ## MambaCL
 
-The pytorch implementation for **MambaCL** in paper "[SDDT-SR: A Scale-Decoupling Super-Resolution Network With Domain Transfer for Heterogeneous Images](https://ieeexplore.ieee.org/document/10769009)" 
+The pytorch implementation for **MambaCL** in paper "[MambaCL: A Contrastive Learning Framework for Change Detection on Pseudotemporal Images Using Visual State Space Model](https://ieeexplore.ieee.org/document/10769009)" 
 on [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/abstract/document/11157781).  
 
 ## Requirements
